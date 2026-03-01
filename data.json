@@ -4,9 +4,17 @@
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
     "avatarUrl": "/uploads/Screenshot-2026-02-28-at-11.26.52-PM-202603010727072-c7d32f.png",
-    "bannerUrl": "https://images.unsplash.com/photo-1556139930-c23fa4a4f934?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "bannerUrl": "/uploads/photo-1574267432553-4b4628081c31-202603010816034-246330.avif"
   },
   "links": [
+    {
+      "id": "link-portfolio",
+      "title": "Editor's Reel",
+      "subtitle": "Selected editorial work",
+      "url": "https://vimeo.com/showcase/11963963?share=copy&fl=sm&fe=fe",
+      "imageUrl": "/uploads/bfafcef6-20e7-4812-a7ae-cd235dc444c8-202603010812397-7a5f58.webp",
+      "enabled": true
+    },
     {
       "id": "link-book-call",
       "title": "Render AI",
@@ -22,14 +30,6 @@
       "url": "https://secretweaponcreative.com/",
       "imageUrl": "/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
       "enabled": true
-    },
-    {
-      "id": "link-portfolio",
-      "title": "Editor's Reel",
-      "subtitle": "Selected editorial work",
-      "url": "https://vimeo.com/showcase/11963963?share=copy&fl=sm&fe=fe",
-      "imageUrl": "/uploads/bfafcef6-20e7-4812-a7ae-cd235dc444c8-202603010812397-7a5f58.webp",
-      "enabled": true
     }
   ],
   "socials": [
@@ -44,7 +44,7 @@
       "id": "social-instagram",
       "type": "instagram",
       "label": "Instagram",
-      "url": "https://instagram.com/jameshuntercarter",
+      "url": "https://instagram.com/",
       "enabled": true
     }
   ],
@@ -72,7 +72,7 @@
       {
         "id": "de7ff85e-f495-45b0-960c-53e3d5e0722e",
         "company": "Self-Employed",
-        "role": "Freelance Trailer Editor",
+        "role": "Trailer Editor",
         "description": "",
         "startYear": "2015",
         "endYear": "2024"
@@ -118,20 +118,20 @@
         "enabled": true
       },
       {
-        "id": "eaef4ec9-0189-4597-99c7-65de47bfa156",
-        "type": "video",
-        "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
-        "coverUrl": "/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
-        "title": "Render AI Promo",
-        "description": "",
-        "enabled": true
-      },
-      {
         "id": "7058c645-4740-49b0-a856-3b255a804745",
         "type": "video",
         "src": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
         "coverUrl": "/uploads/aquaman2-202603011217122-1aab36.jpg",
         "title": "Aquaman 2 Trailer",
+        "description": "",
+        "enabled": true
+      },
+      {
+        "id": "eaef4ec9-0189-4597-99c7-65de47bfa156",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
+        "coverUrl": "/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
+        "title": "Render AI Promo",
         "description": "",
         "enabled": true
       }
