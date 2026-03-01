@@ -8,19 +8,19 @@
   },
   "links": [
     {
+      "id": "link-book-call",
+      "title": "Render AI",
+      "subtitle": "The All-in-One AI Creative Suite for Media Professionals",
+      "url": "https://renderai.com/#",
+      "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
+      "enabled": true
+    },
+    {
       "id": "link-portfolio",
       "title": "Editor's Reel",
       "subtitle": "Selected editorial work",
       "url": "https://vimeo.com/showcase/11963963?share=copy&fl=sm&fe=fe",
       "imageUrl": "/uploads/bfafcef6-20e7-4812-a7ae-cd235dc444c8-202603010812397-7a5f58.webp",
-      "enabled": true
-    },
-    {
-      "id": "link-book-call",
-      "title": "Render AI",
-      "subtitle": "The All-in-One AI Creative Suite for Media Professionals",
-      "url": "https://renderai.com/",
-      "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
       "enabled": true
     },
     {
