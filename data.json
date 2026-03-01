@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "profile": {
+    "displayName": "James Hunter Carter",
+    "tagline": "Filmmaker + Founder",
+    "avatarUrl": "/uploads/Screenshot-2026-02-28-at-11.26.52-PM-202603010727072-c7d32f.png",
+    "bannerUrl": "/uploads/photo-1574267432553-4b4628081c31-202603010816034-246330.avif"
+  },
+  "links": [
+    {
+      "id": "link-book-call",
+      "title": "Render AI",
+      "subtitle": "The All-in-One AI Creative Suite for Media Professionals",
+      "url": "https://renderai.com/",
+      "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
+      "enabled": true
+    },
+    {
+      "id": "link-portfolio",
+      "title": "Editor's Reel",
+      "subtitle": "Selected editorial work",
+      "url": "https://vimeo.com/showcase/11963963?share=copy&fl=sm&fe=fe",
+      "imageUrl": "/uploads/bfafcef6-20e7-4812-a7ae-cd235dc444c8-202603010812397-7a5f58.webp",
+      "enabled": true
+    },
+    {
+      "id": "a5f87a55-30af-4ea9-9cb7-a6bf5fc12a0d",
+      "title": "Secret Weapon",
+      "subtitle": "Creative Special Ops for blockbuster entertainment",
+      "url": "https://secretweaponcreative.com/",
+      "imageUrl": "/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
+      "enabled": true
+    }
+  ],
+  "socials": [
+    {
+      "id": "cbb1358d-c8cc-41d2-aa05-9143b455f0c7",
+      "type": "email",
+      "label": "Email",
+      "url": "mailto:info@jameshuntercarter.com",
+      "enabled": true
+    },
+    {
+      "id": "social-instagram",
+      "type": "instagram",
+      "label": "Instagram",
+      "url": "https://instagram.com/",
+      "enabled": true
+    }
+  ]
+}
