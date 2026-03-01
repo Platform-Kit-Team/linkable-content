@@ -8,14 +8,6 @@
   },
   "links": [
     {
-      "id": "link-book-call",
-      "title": "Render AI",
-      "subtitle": "The All-in-One AI Creative Suite for Media Professionals",
-      "url": "https://renderai.com/#?",
-      "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
-      "enabled": true
-    },
-    {
       "id": "link-portfolio",
       "title": "Editor's Reel",
       "subtitle": "Selected editorial work",
@@ -29,6 +21,14 @@
       "subtitle": "Creative Special Ops for blockbuster entertainment",
       "url": "https://secretweaponcreative.com/",
       "imageUrl": "/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
+      "enabled": true
+    },
+    {
+      "id": "link-book-call",
+      "title": "Render AI",
+      "subtitle": "The All-in-One AI Creative Suite for Media Professionals",
+      "url": "https://renderai.com/#",
+      "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
       "enabled": true
     }
   ],
