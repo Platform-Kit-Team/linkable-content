@@ -1,10 +1,13 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 8,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
     "avatarUrl": "/uploads/avatar.jpg",
-    "bannerUrl": "/uploads/photo-1574267432553-4b4628081c31-202603010816034-246330.avif"
+    "bannerUrl": "/uploads/banner.jpg",
+    "linksLabel": "",
+    "resumeLabel": "",
+    "galleryLabel": ""
   },
   "links": [
     {
@@ -16,19 +19,19 @@
       "enabled": true
     },
     {
-      "id": "link-book-call",
-      "title": "Render AI",
-      "subtitle": "The All-in-One AI Creative Suite for Media Professionals",
-      "url": "https://renderai.com/",
-      "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
+      "id": "a5f87a55-30af-4ea9-9cb7-a6bf5fc12a0d",
+      "title": "Secret Weapon",
+      "subtitle": "Entertainment development & marketing",
+      "url": "https://secretweaponcreative.com/",
+      "imageUrl": "/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
       "enabled": true
     },
     {
-      "id": "a5f87a55-30af-4ea9-9cb7-a6bf5fc12a0d",
-      "title": "Secret Weapon",
-      "subtitle": "Creative Special Ops for blockbuster entertainment",
-      "url": "https://secretweaponcreative.com/",
-      "imageUrl": "/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
+      "id": "link-book-call",
+      "title": "Render AI",
+      "subtitle": "AI Creative Suite for Media Professionals & Teams",
+      "url": "https://renderai.com/",
+      "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
       "enabled": true
     }
   ],
@@ -136,5 +139,21 @@
         "enabled": true
       }
     ]
+  },
+  "theme": {
+    "preset": "light",
+    "colorBrand": "#3b82f6",
+    "colorBrandStrong": "#2563eb",
+    "colorAccent": "#ff5a7a",
+    "colorInk": "#0b1220",
+    "colorInkSoft": "rgba(11, 18, 32, 0.62)",
+    "bg": "#f5f7fb",
+    "glass": "rgba(255, 255, 255, 0.66)",
+    "glass2": "rgba(255, 255, 255, 0.52)",
+    "glassStrong": "rgba(255, 255, 255, 0.82)",
+    "colorBorder": "rgba(255, 255, 255, 0.62)",
+    "colorBorder2": "rgba(11, 18, 32, 0.10)",
+    "radiusXl": "1.6rem",
+    "radiusLg": "1.2rem"
   }
 }
