@@ -112,11 +112,11 @@
     "enabled": true,
     "items": [
       {
-        "id": "ab36cc30-a143-4761-83ad-463a8291d21c",
+        "id": "eaef4ec9-0189-4597-99c7-65de47bfa156",
         "type": "video",
-        "src": "https://www.youtube.com/watch?v=lPnY2NjSjrg",
-        "coverUrl": "/uploads/lego-movie-posters-lead-photo-202603011228100-14538a.webp",
-        "title": "The Lego Movie Teaser",
+        "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
+        "coverUrl": "/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
+        "title": "Render AI Promo",
         "description": "",
         "enabled": true
       },
@@ -130,11 +130,38 @@
         "enabled": true
       },
       {
-        "id": "eaef4ec9-0189-4597-99c7-65de47bfa156",
+        "id": "f1d1b43f-aa2f-4819-8758-0e87daae24e4",
         "type": "video",
-        "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
-        "coverUrl": "/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
-        "title": "Render AI Promo",
+        "src": "https://www.youtube.com/watch?v=aBJyp2LFHgk",
+        "coverUrl": "/uploads/f1d1b43f-aa2f-4819-8758-0e87daae24e4-cover.jpg",
+        "title": "The LEGO Batman Movie Teaser",
+        "description": "",
+        "enabled": true
+      },
+      {
+        "id": "ab36cc30-a143-4761-83ad-463a8291d21c",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=lPnY2NjSjrg",
+        "coverUrl": "/uploads/lego-movie-posters-lead-photo-202603011228100-14538a.webp",
+        "title": "The LEGO Movie Teaser",
+        "description": "",
+        "enabled": true
+      },
+      {
+        "id": "a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=yhz4A5BCMAA",
+        "coverUrl": "/uploads/a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b-cover.jpg",
+        "title": "Star Trek Into Darkness Trailer",
+        "description": "",
+        "enabled": true
+      },
+      {
+        "id": "deffe04d-70d5-42f1-b1a0-0616448e2c15",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=2e4rI7b6c3U",
+        "coverUrl": "/uploads/deffe04d-70d5-42f1-b1a0-0616448e2c15-cover.jpg",
+        "title": "Sherie - ETA",
         "description": "",
         "enabled": true
       }
