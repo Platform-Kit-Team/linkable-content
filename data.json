@@ -123,8 +123,8 @@
         "type": "video",
         "src": "https://vimeo.com/showcase/11963963?video=1133969738",
         "coverUrl": "/uploads/9b27d6d1-44b1-44f6-9a33-f6eaf798988e-cover.jpg",
-        "title": "Trolls Teaser",
-        "description": "",
+        "title": "Trolls",
+        "description": "Teaser",
         "tags": [
           "Teaser"
         ],
@@ -135,8 +135,8 @@
         "type": "video",
         "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
         "coverUrl": "/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
-        "title": "Render AI Promo",
-        "description": "",
+        "title": "Render AI",
+        "description": "Promo",
         "tags": [],
         "enabled": true
       },
@@ -145,8 +145,8 @@
         "type": "video",
         "src": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
         "coverUrl": "/uploads/aquaman2-202603011217122-1aab36.jpg",
-        "title": "Aquaman 2 Trailer",
-        "description": "",
+        "title": "Aquaman 2",
+        "description": "Trailer",
         "tags": [],
         "enabled": true
       },
@@ -155,8 +155,8 @@
         "type": "video",
         "src": "https://www.youtube.com/watch?v=wmnkAOO6Qo4",
         "coverUrl": "/uploads/88446aeb-542c-48ac-a64c-1bcd28ce3860-cover.jpg",
-        "title": "Detective Pikachu Teaser",
-        "description": "",
+        "title": "Detective Pikachu",
+        "description": " Teaser",
         "tags": [
           "Teaser"
         ],
@@ -167,8 +167,8 @@
         "type": "video",
         "src": "https://vimeo.com/showcase/11963963?video=262472183",
         "coverUrl": "/uploads/836039ce-41eb-4b93-9459-d84ac7005b6d-cover.jpg",
-        "title": "Fear the Walking Dead Trailer",
-        "description": "",
+        "title": "Fear the Walking Dead",
+        "description": "Trailer",
         "tags": [
           "Trailer"
         ],
@@ -179,8 +179,8 @@
         "type": "video",
         "src": "https://www.youtube.com/watch?v=aBJyp2LFHgk",
         "coverUrl": "/uploads/f1d1b43f-aa2f-4819-8758-0e87daae24e4-cover.jpg",
-        "title": "The LEGO Batman Movie Teaser",
-        "description": "",
+        "title": "The LEGO Batman Movie",
+        "description": "Teaser",
         "tags": [
           "Teaser"
         ],
@@ -191,8 +191,8 @@
         "type": "video",
         "src": "https://www.youtube.com/watch?v=lPnY2NjSjrg",
         "coverUrl": "/uploads/lego-movie-posters-lead-photo-202603011228100-14538a.webp",
-        "title": "The LEGO Movie Teaser",
-        "description": "",
+        "title": "The LEGO Movie",
+        "description": " Teaser",
         "tags": [],
         "enabled": true
       },
@@ -201,8 +201,8 @@
         "type": "video",
         "src": "https://www.youtube.com/watch?v=Bz9e0PGSDeU",
         "coverUrl": "/uploads/0596b17f-58f3-46ed-85a9-381e3b0a8d8e-cover.jpg",
-        "title": "San Andreas Teaser",
-        "description": "",
+        "title": "San Andreas",
+        "description": "Teaser",
         "tags": [
           "Teaser"
         ],
@@ -213,8 +213,8 @@
         "type": "video",
         "src": "https://www.youtube.com/watch?v=yhz4A5BCMAA",
         "coverUrl": "/uploads/a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b-cover.jpg",
-        "title": "Star Trek Into Darkness Trailer",
-        "description": "",
+        "title": "Star Trek Into Darkness",
+        "description": "Trailer",
         "tags": [
           "Trailer"
         ],
@@ -225,8 +225,8 @@
         "type": "video",
         "src": "https://vimeo.com/showcase/11963963?video=641369938",
         "coverUrl": "/uploads/400d0b92-ae2c-46a5-8536-60e5113a365f-cover.jpg",
-        "title": "TMNT International Trailer",
-        "description": "",
+        "title": "TMNT",
+        "description": " International Trailer",
         "tags": [
           "Trailer"
         ],
@@ -238,7 +238,7 @@
         "src": "https://vimeo.com/showcase/11963963?video=641765180",
         "coverUrl": "/uploads/edc0444e-f206-4f26-b516-5d1871a02654-cover.jpg",
         "title": "The Adventures of TinTin",
-        "description": "",
+        "description": "TV Spot",
         "tags": [
           "TV Spot"
         ],
@@ -249,8 +249,8 @@
         "type": "video",
         "src": "https://vimeo.com/showcase/11963963?video=641765141",
         "coverUrl": "/uploads/9bb2547d-5f83-41bb-b441-c936bc3d2c2f-cover.jpg",
-        "title": "Mission Impossible TV Spot",
-        "description": "",
+        "title": "Mission Impossible",
+        "description": "TV Spot",
         "tags": [
           "TV Spot"
         ],
@@ -262,7 +262,7 @@
         "src": "https://vimeo.com/showcase/11963963?video=641764978",
         "coverUrl": "/uploads/aa47a43d-d3d7-4778-b5db-8011f97a4ebd-cover.jpg",
         "title": "A Nightmare on Elm Street",
-        "description": "",
+        "description": "TV Spot",
         "tags": [
           "TV Spot"
         ],
@@ -273,8 +273,8 @@
         "type": "video",
         "src": "https://vimeo.com/showcase/11963963?video=641762941",
         "coverUrl": "/uploads/15773aee-4357-434e-beab-333cb0abaaef-cover.jpg",
-        "title": "Transformers: Revenge of the Fallen",
-        "description": "",
+        "title": "Transformers 2",
+        "description": "TV Spot",
         "tags": [
           "TV Spot"
         ],
@@ -286,7 +286,7 @@
         "src": "https://www.youtube.com/watch?v=2e4rI7b6c3U",
         "coverUrl": "/uploads/deffe04d-70d5-42f1-b1a0-0616448e2c15-cover.jpg",
         "title": "Sherie - ETA",
-        "description": "",
+        "description": "Music Video",
         "tags": [
           "Music Video"
         ],
