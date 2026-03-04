@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 16,
+  "schemaVersion": 17,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
@@ -386,6 +386,15 @@
   "blog": {
     "enabled": false
   },
+  "embeds": [
+    {
+      "id": "f236b065-e908-476f-8d55-dccc72f28af7",
+      "label": "Book A Call",
+      "html": "https://cal.com/jameshuntercarter/30-minute-video-call",
+      "icon": "CalendarFold",
+      "enabled": true
+    }
+  ],
   "theme": {
     "preset": "light",
     "colorBrand": "#3b82f6",
