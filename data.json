@@ -1,10 +1,12 @@
 {
-  "schemaVersion": 17,
+  "schemaVersion": 18,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
     "avatarUrl": "/uploads/avatar.jpg",
     "bannerUrl": "/uploads/banner.jpg",
+    "faviconUrl": "",
+    "ogImageUrl": "/uploads/og-image.jpg",
     "linksLabel": "",
     "resumeLabel": "",
     "galleryLabel": "My Work",
