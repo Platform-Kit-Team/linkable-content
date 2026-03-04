@@ -61,7 +61,7 @@
   ],
   "resume": {
     "enabled": true,
-    "bio": "I've spent over 20 years working in Hollywood at the intersection of storytelling, marketing, development, and technology. Recently that has culminated in the creation of a boutique agency called Secret Weapon and a software platform called Render AI.  ",
+    "bio": "For the last two decades I've worked in Hollywood at the intersection of storytelling, marketing, psychology, and technology. Recently that has culminated in the creation of a boutique marketing-development agency called Secret Weapon and an enterprise software platform called Render AI.  ",
     "education": [],
     "employment": [
       {
@@ -109,10 +109,24 @@
     "achievements": [
       {
         "id": "ca1df95b-e986-40fb-8739-9c73cbb7cf9e",
-        "title": "Best Animated Trailer",
+        "title": "Golden CLIO Award",
         "issuer": "CLIO Awards",
         "year": "2017",
         "description": "for my LEGO Batman Teaser"
+      },
+      {
+        "id": "b54ce01a-268d-4004-b4d2-9e23385a73bd",
+        "title": "Super Bowl TV Spot",
+        "issuer": "NFL / Universal",
+        "year": "2010",
+        "description": "My TV spot for Universal's Wolfman film aired during Super Bowl XLIV"
+      },
+      {
+        "id": "339de689-d8e5-49fe-ba49-c85539b8878a",
+        "title": "Super Bowl TV Spot",
+        "issuer": "NFL / Relativity",
+        "year": "2012",
+        "description": "My TV spot for Relativity Media's Act of Valor film aired during Super Bowl XLVI"
       }
     ]
   },
