@@ -119,6 +119,18 @@
     "enabled": true,
     "items": [
       {
+        "id": "9b27d6d1-44b1-44f6-9a33-f6eaf798988e",
+        "type": "video",
+        "src": "https://vimeo.com/showcase/11963963?video=1133969738",
+        "coverUrl": "/uploads/9b27d6d1-44b1-44f6-9a33-f6eaf798988e-cover.jpg",
+        "title": "Trolls Teaser",
+        "description": "",
+        "tags": [
+          "Teaser"
+        ],
+        "enabled": true
+      },
+      {
         "id": "eaef4ec9-0189-4597-99c7-65de47bfa156",
         "type": "video",
         "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
@@ -136,6 +148,30 @@
         "title": "Aquaman 2 Trailer",
         "description": "",
         "tags": [],
+        "enabled": true
+      },
+      {
+        "id": "88446aeb-542c-48ac-a64c-1bcd28ce3860",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=wmnkAOO6Qo4",
+        "coverUrl": "/uploads/88446aeb-542c-48ac-a64c-1bcd28ce3860-cover.jpg",
+        "title": "Detective Pikachu Teaser",
+        "description": "",
+        "tags": [
+          "Teaser"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "836039ce-41eb-4b93-9459-d84ac7005b6d",
+        "type": "video",
+        "src": "https://vimeo.com/showcase/11963963?video=262472183",
+        "coverUrl": "/uploads/836039ce-41eb-4b93-9459-d84ac7005b6d-cover.jpg",
+        "title": "Fear the Walking Dead Trailer",
+        "description": "",
+        "tags": [
+          "Trailer"
+        ],
         "enabled": true
       },
       {
@@ -158,6 +194,18 @@
         "title": "The LEGO Movie Teaser",
         "description": "",
         "tags": [],
+        "enabled": true
+      },
+      {
+        "id": "0596b17f-58f3-46ed-85a9-381e3b0a8d8e",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=Bz9e0PGSDeU",
+        "coverUrl": "/uploads/0596b17f-58f3-46ed-85a9-381e3b0a8d8e-cover.jpg",
+        "title": "San Andreas Teaser",
+        "description": "",
+        "tags": [
+          "Teaser"
+        ],
         "enabled": true
       },
       {
