@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 14,
+  "schemaVersion": 16,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
@@ -9,6 +9,7 @@
     "resumeLabel": "",
     "galleryLabel": "My Work",
     "blogLabel": "",
+    "defaultTab": "links",
     "searchLinks": false,
     "searchGallery": true,
     "searchBlog": false
@@ -19,7 +20,7 @@
       "title": "Editor's Reel",
       "subtitle": "Selected editorial work",
       "url": "#gallery",
-      "imageUrl": "/uploads/bfafcef6-20e7-4812-a7ae-cd235dc444c8-202603010812397-7a5f58.webp",
+      "imageUrl": "/uploads/link-portfolio.jpg",
       "enabled": true,
       "tags": []
     },
@@ -119,25 +120,27 @@
     "enabled": true,
     "items": [
       {
-        "id": "9b27d6d1-44b1-44f6-9a33-f6eaf798988e",
-        "type": "video",
-        "src": "https://vimeo.com/showcase/11963963?video=1133969738",
-        "coverUrl": "/uploads/9b27d6d1-44b1-44f6-9a33-f6eaf798988e-cover.jpg",
-        "title": "Trolls",
-        "description": "Teaser",
-        "tags": [
-          "Teaser"
-        ],
-        "enabled": true
-      },
-      {
         "id": "eaef4ec9-0189-4597-99c7-65de47bfa156",
         "type": "video",
         "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
         "coverUrl": "/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
         "title": "Render AI",
         "description": "Promo",
-        "tags": [],
+        "tags": [
+          "Promo"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "deffe04d-70d5-42f1-b1a0-0616448e2c15",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=2e4rI7b6c3U",
+        "coverUrl": "/uploads/deffe04d-70d5-42f1-b1a0-0616448e2c15-cover.jpg",
+        "title": "Sherie - ETA",
+        "description": "Music Video",
+        "tags": [
+          "Music Video"
+        ],
         "enabled": true
       },
       {
@@ -171,6 +174,18 @@
         "description": "Trailer",
         "tags": [
           "Trailer"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "9b27d6d1-44b1-44f6-9a33-f6eaf798988e",
+        "type": "video",
+        "src": "https://vimeo.com/showcase/11963963?video=1133969738",
+        "coverUrl": "/uploads/9b27d6d1-44b1-44f6-9a33-f6eaf798988e-cover.jpg",
+        "title": "Trolls",
+        "description": "Teaser",
+        "tags": [
+          "Teaser"
         ],
         "enabled": true
       },
@@ -281,12 +296,36 @@
         "enabled": true
       },
       {
-        "id": "deffe04d-70d5-42f1-b1a0-0616448e2c15",
+        "id": "a54f2c9b-add5-4257-a8d2-15c4a8341c4d",
         "type": "video",
-        "src": "https://www.youtube.com/watch?v=2e4rI7b6c3U",
-        "coverUrl": "/uploads/deffe04d-70d5-42f1-b1a0-0616448e2c15-cover.jpg",
-        "title": "Sherie - ETA",
-        "description": "Music Video",
+        "src": "https://www.youtube.com/watch?v=Eil5fAarzag",
+        "coverUrl": "/uploads/a54f2c9b-add5-4257-a8d2-15c4a8341c4d-cover.jpg",
+        "title": "The Hero with the Impossible Dream",
+        "description": "Video Essay",
+        "tags": [
+          "Video Essay"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "d5fc31b1-e556-42fb-8818-ee4a1300ace9",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=aUi1kgJD7iI",
+        "coverUrl": "/uploads/d5fc31b1-e556-42fb-8818-ee4a1300ace9-cover.jpg",
+        "title": "The Hero who has No Fear",
+        "description": "Video Essay",
+        "tags": [
+          "Video Essay"
+        ],
+        "enabled": true
+      },
+      {
+        "id": "b4fe9801-c4b8-48a5-be3f-d13fc970f803",
+        "type": "video",
+        "src": "https://www.youtube.com/watch?v=YH8vz_hmsW8",
+        "coverUrl": "/uploads/b4fe9801-c4b8-48a5-be3f-d13fc970f803-cover.jpg",
+        "title": "Golden Wind",
+        "description": "Meditation Track",
         "tags": [
           "Music Video"
         ],
@@ -310,6 +349,9 @@
     "glassStrong": "rgba(255, 255, 255, 0.82)",
     "colorBorder": "rgba(255, 255, 255, 0.62)",
     "colorBorder2": "rgba(11, 18, 32, 0.10)",
+    "cardBg": "rgba(255, 255, 255, 0.66)",
+    "cardBorder": "rgba(255, 255, 255, 0.62)",
+    "cardText": "#0b1220",
     "radiusXl": "1.6rem",
     "radiusLg": "1.2rem"
   },
