@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 18,
+  "schemaVersion": 19,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
@@ -8,9 +8,13 @@
     "faviconUrl": "",
     "ogImageUrl": "/uploads/og-image.jpg",
     "linksLabel": "",
-    "resumeLabel": "",
+    "resumeLabel": "Resume",
     "galleryLabel": "My Work",
     "blogLabel": "",
+    "linksIcon": "Link",
+    "resumeIcon": "File",
+    "galleryIcon": "Video",
+    "blogIcon": "BookOpen",
     "defaultTab": "links",
     "searchLinks": false,
     "searchGallery": true,
@@ -386,7 +390,7 @@
     ]
   },
   "blog": {
-    "enabled": false
+    "enabled": true
   },
   "embeds": [
     {
