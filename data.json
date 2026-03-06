@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 19,
+  "schemaVersion": 23,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
@@ -9,16 +9,20 @@
     "ogImageUrl": "/uploads/og-image.jpg",
     "linksLabel": "",
     "resumeLabel": "Resume",
-    "galleryLabel": "My Work",
+    "galleryLabel": "Reel",
     "blogLabel": "",
+    "newsletterLabel": "Articles",
     "linksIcon": "Link",
     "resumeIcon": "File",
-    "galleryIcon": "Video",
+    "galleryIcon": "Film",
     "blogIcon": "BookOpen",
+    "newsletterIcon": "BookOpen",
     "defaultTab": "links",
     "searchLinks": false,
     "searchGallery": true,
-    "searchBlog": false
+    "searchBlog": false,
+    "searchNewsletter": true,
+    "newsletterEnabled": true
   },
   "links": [
     {
@@ -28,7 +32,9 @@
       "url": "#gallery",
       "imageUrl": "/uploads/link-portfolio.jpg",
       "enabled": true,
-      "tags": []
+      "tags": [],
+      "publishDate": "",
+      "expirationDate": ""
     },
     {
       "id": "a5f87a55-30af-4ea9-9cb7-a6bf5fc12a0d",
@@ -37,7 +43,9 @@
       "url": "https://secretweaponcreative.com/",
       "imageUrl": "/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
       "enabled": true,
-      "tags": []
+      "tags": [],
+      "publishDate": "",
+      "expirationDate": ""
     },
     {
       "id": "link-book-call",
@@ -46,7 +54,9 @@
       "url": "https://renderai.com/",
       "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
       "enabled": true,
-      "tags": []
+      "tags": [],
+      "publishDate": "",
+      "expirationDate": ""
     }
   ],
   "socials": [
@@ -149,7 +159,9 @@
         "tags": [
           "Promo"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "076a7361-9b20-470b-85d5-5a9c0586ee29",
@@ -161,7 +173,9 @@
         "tags": [
           "Feature Editorial"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "deffe04d-70d5-42f1-b1a0-0616448e2c15",
@@ -173,7 +187,9 @@
         "tags": [
           "Music Video"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "6745e1bb-02fc-4e87-ae79-bffb82df3d21",
@@ -185,7 +201,9 @@
         "tags": [
           "Music Video"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "7058c645-4740-49b0-a856-3b255a804745",
@@ -195,7 +213,9 @@
         "title": "Aquaman 2",
         "description": "Trailer",
         "tags": [],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "88446aeb-542c-48ac-a64c-1bcd28ce3860",
@@ -207,7 +227,9 @@
         "tags": [
           "Teaser"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "31b0910b-8f3c-4157-9b53-d3fdb0eee484",
@@ -219,7 +241,9 @@
         "tags": [
           "Featurette"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "836039ce-41eb-4b93-9459-d84ac7005b6d",
@@ -231,7 +255,9 @@
         "tags": [
           "Trailer"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "9b27d6d1-44b1-44f6-9a33-f6eaf798988e",
@@ -243,7 +269,9 @@
         "tags": [
           "Teaser"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "f1d1b43f-aa2f-4819-8758-0e87daae24e4",
@@ -255,7 +283,9 @@
         "tags": [
           "Teaser"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "ab36cc30-a143-4761-83ad-463a8291d21c",
@@ -265,7 +295,9 @@
         "title": "The LEGO Movie",
         "description": " Teaser",
         "tags": [],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "0596b17f-58f3-46ed-85a9-381e3b0a8d8e",
@@ -277,7 +309,9 @@
         "tags": [
           "Teaser"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b",
@@ -289,7 +323,9 @@
         "tags": [
           "Trailer"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "400d0b92-ae2c-46a5-8536-60e5113a365f",
@@ -301,7 +337,9 @@
         "tags": [
           "Trailer"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "edc0444e-f206-4f26-b516-5d1871a02654",
@@ -313,7 +351,9 @@
         "tags": [
           "TV Spot"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "9bb2547d-5f83-41bb-b441-c936bc3d2c2f",
@@ -325,7 +365,9 @@
         "tags": [
           "TV Spot"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "aa47a43d-d3d7-4778-b5db-8011f97a4ebd",
@@ -337,7 +379,9 @@
         "tags": [
           "TV Spot"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "15773aee-4357-434e-beab-333cb0abaaef",
@@ -349,7 +393,9 @@
         "tags": [
           "TV Spot"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "a54f2c9b-add5-4257-a8d2-15c4a8341c4d",
@@ -361,7 +407,9 @@
         "tags": [
           "Video Essay"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "d5fc31b1-e556-42fb-8818-ee4a1300ace9",
@@ -373,7 +421,9 @@
         "tags": [
           "Video Essay"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       },
       {
         "id": "b4fe9801-c4b8-48a5-be3f-d13fc970f803",
@@ -385,7 +435,9 @@
         "tags": [
           "Music Video"
         ],
-        "enabled": true
+        "enabled": true,
+        "publishDate": "",
+        "expirationDate": ""
       }
     ]
   },
@@ -398,7 +450,9 @@
       "label": "Book A Call",
       "html": "https://cal.com/jameshuntercarter/30-minute-video-call",
       "icon": "CalendarFold",
-      "enabled": true
+      "enabled": true,
+      "publishDate": "",
+      "expirationDate": ""
     }
   ],
   "theme": {
