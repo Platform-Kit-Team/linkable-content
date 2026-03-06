@@ -22,7 +22,7 @@
     "searchGallery": true,
     "searchBlog": false,
     "searchNewsletter": true,
-    "newsletterEnabled": true
+    "newsletterEnabled": false
   },
   "links": [
     {
