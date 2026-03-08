@@ -1,13 +1,10 @@
 {
-  "schemaVersion": 29,
+  "schemaVersion": 31,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
-    "avatarUrl": "/uploads/avatar.jpg",
-    "bannerUrl": "/uploads/banner.jpg",
     "faviconUrl": "",
-    "ogImageUrl": "/uploads/og-image.jpg",
-    "defaultTab": "links"
+    "ogImageUrl": "/uploads/og-image.jpg"
   },
   "collections": {
     "socials": {
@@ -41,7 +38,7 @@
     },
     "links": {
       "enabled": true,
-      "label": "",
+      "label": "Home",
       "icon": "Link",
       "searchEnabled": false,
       "items": [
@@ -82,7 +79,7 @@
     },
     "gallery": {
       "enabled": true,
-      "label": "Reel",
+      "label": "My Work",
       "icon": "Film",
       "searchEnabled": true,
       "items": [
@@ -730,7 +727,10 @@
             "buttonText": ""
           }
         ]
-      }
+      },
+      "defaultTab": "links",
+      "avatarUrl": "/uploads/avatar.jpg",
+      "bannerUrl": "/uploads/banner.jpg"
     }
   },
   "layoutThemes": {
@@ -768,14 +768,207 @@
               "refId": "",
               "col": 1,
               "row": 1,
-              "colSpan": 3,
+              "colSpan": 2,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "287c109f-661c-4a8d-b8b4-ed65301b6108",
+              "type": "link",
+              "refId": "link-book-call",
+              "col": 3,
+              "row": 1,
+              "colSpan": 1,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "9c0257be-7b28-4540-a962-faed08c36d73",
+              "type": "link",
+              "refId": "a5f87a55-30af-4ea9-9cb7-a6bf5fc12a0d",
+              "col": 4,
+              "row": 1,
+              "colSpan": 1,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "0b675c25-365c-4f9d-a2c5-5f12356a2245",
+              "type": "gallery",
+              "refId": "076a7361-9b20-470b-85d5-5a9c0586ee29",
+              "col": 2,
+              "row": 3,
+              "colSpan": 2,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "174e1e37-7efa-4735-928c-1b9f9f42d64f",
+              "type": "gallery",
+              "refId": "deffe04d-70d5-42f1-b1a0-0616448e2c15",
+              "col": 1,
+              "row": 3,
+              "colSpan": 1,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "c1d8b789-1c1f-4dca-b1e6-143db5b07d7a",
+              "type": "gallery",
+              "refId": "6745e1bb-02fc-4e87-ae79-bffb82df3d21",
+              "col": 4,
+              "row": 3,
+              "colSpan": 1,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "7c42d187-f143-44fb-90bd-e3ddb8c09ff5",
+              "type": "gallery",
+              "refId": "7058c645-4740-49b0-a856-3b255a804745",
+              "col": 1,
+              "row": 5,
+              "colSpan": 2,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "f697e23d-9428-47f9-9312-99e4b1b02da8",
+              "type": "gallery",
+              "refId": "88446aeb-542c-48ac-a64c-1bcd28ce3860",
+              "col": 3,
+              "row": 5,
+              "colSpan": 2,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "185a1e61-3c23-4f0b-b006-fcc33876a01d",
+              "type": "gallery",
+              "refId": "9b27d6d1-44b1-44f6-9a33-f6eaf798988e",
+              "col": 1,
+              "row": 7,
+              "colSpan": 1,
+              "rowSpan": 1,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "88bb4973-2af7-475e-894e-fc0903994338",
+              "type": "gallery",
+              "refId": "f1d1b43f-aa2f-4819-8758-0e87daae24e4",
+              "col": 2,
+              "row": 7,
+              "colSpan": 1,
+              "rowSpan": 1,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "34cd45df-c8be-4930-bee3-c2240ab4314c",
+              "type": "gallery",
+              "refId": "ab36cc30-a143-4761-83ad-463a8291d21c",
+              "col": 3,
+              "row": 7,
+              "colSpan": 1,
+              "rowSpan": 1,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "94c5703c-5746-4868-a9c6-5571807b7f51",
+              "type": "gallery",
+              "refId": "0596b17f-58f3-46ed-85a9-381e3b0a8d8e",
+              "col": 4,
+              "row": 7,
+              "colSpan": 1,
+              "rowSpan": 1,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "b6fa04ea-309c-449b-91c3-07709218e6e2",
+              "type": "gallery",
+              "refId": "a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b",
+              "col": 1,
+              "row": 8,
+              "colSpan": 2,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "47bc730c-6492-4bfa-a474-e4eb2e51c299",
+              "type": "gallery",
+              "refId": "9bb2547d-5f83-41bb-b441-c936bc3d2c2f",
+              "col": 3,
+              "row": 8,
+              "colSpan": 2,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "2a368da3-caa3-4309-b6c7-0718874663fa",
+              "type": "embed",
+              "refId": "174a56bd-5980-4a6d-8915-a72a1d76bee4",
+              "col": 1,
+              "row": 10,
+              "colSpan": 1,
+              "rowSpan": 2,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "4ee6b575-143c-49aa-b536-b7de9b066c20",
+              "type": "embed",
+              "refId": "f236b065-e908-476f-8d55-dccc72f28af7",
+              "col": 3,
+              "row": 10,
+              "colSpan": 2,
+              "rowSpan": 2,
+              "thumbnailUrl": "https://images.unsplash.com/photo-1646038572815-43fe759e459b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "headerText": "👋  Say Hello!",
+              "buttonText": "Schedule A Call"
+            },
+            {
+              "id": "a4a878be-946e-4803-ab7f-727baab36475",
+              "type": "link",
+              "refId": "link-portfolio",
+              "col": 2,
+              "row": 10,
+              "colSpan": 1,
               "rowSpan": 2,
               "thumbnailUrl": "",
               "headerText": "",
               "buttonText": ""
             }
           ]
-        }
+        },
+        "defaultTab": "gallery"
       }
     },
     "minimal": {
@@ -1033,7 +1226,10 @@
               "buttonText": ""
             }
           ]
-        }
+        },
+        "defaultTab": "links",
+        "avatarUrl": "/uploads/avatar.jpg",
+        "bannerUrl": "/uploads/banner.jpg"
       }
     }
   },
