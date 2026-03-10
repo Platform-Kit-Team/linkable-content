@@ -1,10 +1,10 @@
 {
-  "schemaVersion": 40,
+  "schemaVersion": 0,
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
     "faviconUrl": "",
-    "ogImageUrl": "/uploads/og-image.jpg"
+    "ogImageUrl": "/content/uploads/og-image.jpg"
   },
   "collections": {
     "socials": {
@@ -47,7 +47,7 @@
           "title": "Astrocast",
           "subtitle": "Astrology app for everybody",
           "url": "https://astrocast.ai/",
-          "imageUrl": "/uploads/social-1766526186523-astrocast-icon-202603090021181-af3768.png",
+          "imageUrl": "/content/uploads/social-1766526186523-astrocast-icon-202603090021181-af3768.png",
           "enabled": true,
           "tags": [],
           "publishDate": "",
@@ -58,7 +58,7 @@
           "title": "Platform Kit",
           "subtitle": "Minimal Website Builder",
           "url": "/content/self-publishing",
-          "imageUrl": "/uploads/replicate-prediction-ym8dpdpyfsrmw0cwtje889yq0c-1--202603100100111-2d9db8.jpg",
+          "imageUrl": "/content/uploads/replicate-prediction-ym8dpdpyfsrmw0cwtje889yq0c-1--202603100100111-2d9db8.jpg",
           "enabled": true,
           "tags": [],
           "publishDate": "",
@@ -69,7 +69,7 @@
           "title": "My Editor's Reel",
           "subtitle": "Selected editorial work",
           "url": "#gallery",
-          "imageUrl": "/uploads/link-portfolio.jpg",
+          "imageUrl": "/content/uploads/link-portfolio.jpg",
           "enabled": true,
           "tags": [],
           "publishDate": "",
@@ -80,7 +80,7 @@
           "title": "Secret Weapon",
           "subtitle": "Entertainment development & marketing agency",
           "url": "https://secretweaponcreative.com/",
-          "imageUrl": "/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
+          "imageUrl": "/content/uploads/63592410-dd47-4830-9471-f3e56ace9470-202603010815085-86863c.webp",
           "enabled": true,
           "tags": [],
           "publishDate": "",
@@ -91,7 +91,7 @@
           "title": "Render AI",
           "subtitle": "AI creative suite for media professionals & teams",
           "url": "https://renderai.com/",
-          "imageUrl": "/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
+          "imageUrl": "/content/uploads/pwa-logo-512px-202603010813212-fd08d3.png",
           "enabled": true,
           "tags": [],
           "publishDate": "",
@@ -109,7 +109,7 @@
           "id": "eaef4ec9-0189-4597-99c7-65de47bfa156",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=gvBQpUdpQoA",
-          "coverUrl": "/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
+          "coverUrl": "/content/uploads/Render-v2-Promo_v1_WIP_1.00_00_39_23.Still004-202603011225126-5e969d.jpg",
           "title": "Render AI",
           "description": "Promo",
           "tags": [
@@ -123,7 +123,7 @@
           "id": "076a7361-9b20-470b-85d5-5a9c0586ee29",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=-GYbDzoEwfs",
-          "coverUrl": "/uploads/076a7361-9b20-470b-85d5-5a9c0586ee29-cover.jpg",
+          "coverUrl": "/content/uploads/076a7361-9b20-470b-85d5-5a9c0586ee29-cover.jpg",
           "title": "Fear Street 1994",
           "description": "Main Titles\nFinal designed by Elastic",
           "tags": [
@@ -137,7 +137,7 @@
           "id": "deffe04d-70d5-42f1-b1a0-0616448e2c15",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=2e4rI7b6c3U",
-          "coverUrl": "/uploads/deffe04d-70d5-42f1-b1a0-0616448e2c15-cover.jpg",
+          "coverUrl": "/content/uploads/deffe04d-70d5-42f1-b1a0-0616448e2c15-cover.jpg",
           "title": "Sherie - ETA",
           "description": "Music Video",
           "tags": [
@@ -151,7 +151,7 @@
           "id": "6745e1bb-02fc-4e87-ae79-bffb82df3d21",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=762819100",
-          "coverUrl": "/uploads/6745e1bb-02fc-4e87-ae79-bffb82df3d21-cover.jpg",
+          "coverUrl": "/content/uploads/6745e1bb-02fc-4e87-ae79-bffb82df3d21-cover.jpg",
           "title": "Black Adam",
           "description": "Music Video",
           "tags": [
@@ -165,7 +165,7 @@
           "id": "7058c645-4740-49b0-a856-3b255a804745",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=FV3bqvOHRQo",
-          "coverUrl": "/uploads/aquaman2-202603011217122-1aab36.jpg",
+          "coverUrl": "/content/uploads/aquaman2-202603011217122-1aab36.jpg",
           "title": "Aquaman 2",
           "description": "Trailer",
           "tags": [],
@@ -177,7 +177,7 @@
           "id": "88446aeb-542c-48ac-a64c-1bcd28ce3860",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=wmnkAOO6Qo4",
-          "coverUrl": "/uploads/88446aeb-542c-48ac-a64c-1bcd28ce3860-cover.jpg",
+          "coverUrl": "/content/uploads/88446aeb-542c-48ac-a64c-1bcd28ce3860-cover.jpg",
           "title": "Detective Pikachu",
           "description": " Teaser",
           "tags": [
@@ -191,7 +191,7 @@
           "id": "31b0910b-8f3c-4157-9b53-d3fdb0eee484",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=642175318",
-          "coverUrl": "/uploads/31b0910b-8f3c-4157-9b53-d3fdb0eee484-cover.jpg",
+          "coverUrl": "/content/uploads/31b0910b-8f3c-4157-9b53-d3fdb0eee484-cover.jpg",
           "title": "Detective Pikachu",
           "description": "Featurette",
           "tags": [
@@ -205,7 +205,7 @@
           "id": "836039ce-41eb-4b93-9459-d84ac7005b6d",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=262472183",
-          "coverUrl": "/uploads/836039ce-41eb-4b93-9459-d84ac7005b6d-cover.jpg",
+          "coverUrl": "/content/uploads/836039ce-41eb-4b93-9459-d84ac7005b6d-cover.jpg",
           "title": "Fear the Walking Dead",
           "description": "Trailer",
           "tags": [
@@ -219,7 +219,7 @@
           "id": "9b27d6d1-44b1-44f6-9a33-f6eaf798988e",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=1133969738",
-          "coverUrl": "/uploads/9b27d6d1-44b1-44f6-9a33-f6eaf798988e-cover.jpg",
+          "coverUrl": "/content/uploads/9b27d6d1-44b1-44f6-9a33-f6eaf798988e-cover.jpg",
           "title": "Trolls",
           "description": "Teaser",
           "tags": [
@@ -233,7 +233,7 @@
           "id": "f1d1b43f-aa2f-4819-8758-0e87daae24e4",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=aBJyp2LFHgk",
-          "coverUrl": "/uploads/f1d1b43f-aa2f-4819-8758-0e87daae24e4-cover.jpg",
+          "coverUrl": "/content/uploads/f1d1b43f-aa2f-4819-8758-0e87daae24e4-cover.jpg",
           "title": "The LEGO Batman Movie",
           "description": "Teaser",
           "tags": [
@@ -247,7 +247,7 @@
           "id": "ab36cc30-a143-4761-83ad-463a8291d21c",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=lPnY2NjSjrg",
-          "coverUrl": "/uploads/lego-movie-posters-lead-photo-202603011228100-14538a.webp",
+          "coverUrl": "/content/uploads/lego-movie-posters-lead-photo-202603011228100-14538a.webp",
           "title": "The LEGO Movie",
           "description": " Teaser",
           "tags": [],
@@ -259,7 +259,7 @@
           "id": "0596b17f-58f3-46ed-85a9-381e3b0a8d8e",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=Bz9e0PGSDeU",
-          "coverUrl": "/uploads/0596b17f-58f3-46ed-85a9-381e3b0a8d8e-cover.jpg",
+          "coverUrl": "/content/uploads/0596b17f-58f3-46ed-85a9-381e3b0a8d8e-cover.jpg",
           "title": "San Andreas",
           "description": "Teaser",
           "tags": [
@@ -273,7 +273,7 @@
           "id": "a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=yhz4A5BCMAA",
-          "coverUrl": "/uploads/a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b-cover.jpg",
+          "coverUrl": "/content/uploads/a3fd511d-2fa7-4cb0-91dd-3c91fb1e6b4b-cover.jpg",
           "title": "Star Trek Into Darkness",
           "description": "Trailer",
           "tags": [
@@ -287,7 +287,7 @@
           "id": "400d0b92-ae2c-46a5-8536-60e5113a365f",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=641369938",
-          "coverUrl": "/uploads/400d0b92-ae2c-46a5-8536-60e5113a365f-cover.jpg",
+          "coverUrl": "/content/uploads/400d0b92-ae2c-46a5-8536-60e5113a365f-cover.jpg",
           "title": "TMNT",
           "description": " International Trailer",
           "tags": [
@@ -301,7 +301,7 @@
           "id": "edc0444e-f206-4f26-b516-5d1871a02654",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=641765180",
-          "coverUrl": "/uploads/edc0444e-f206-4f26-b516-5d1871a02654-cover.jpg",
+          "coverUrl": "/content/uploads/edc0444e-f206-4f26-b516-5d1871a02654-cover.jpg",
           "title": "The Adventures of TinTin",
           "description": "TV Spot",
           "tags": [
@@ -315,7 +315,7 @@
           "id": "9bb2547d-5f83-41bb-b441-c936bc3d2c2f",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=641765141",
-          "coverUrl": "/uploads/9bb2547d-5f83-41bb-b441-c936bc3d2c2f-cover.jpg",
+          "coverUrl": "/content/uploads/9bb2547d-5f83-41bb-b441-c936bc3d2c2f-cover.jpg",
           "title": "Mission Impossible",
           "description": "TV Spot",
           "tags": [
@@ -329,7 +329,7 @@
           "id": "aa47a43d-d3d7-4778-b5db-8011f97a4ebd",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=641764978",
-          "coverUrl": "/uploads/aa47a43d-d3d7-4778-b5db-8011f97a4ebd-cover.jpg",
+          "coverUrl": "/content/uploads/aa47a43d-d3d7-4778-b5db-8011f97a4ebd-cover.jpg",
           "title": "A Nightmare on Elm Street",
           "description": "TV Spot",
           "tags": [
@@ -343,7 +343,7 @@
           "id": "15773aee-4357-434e-beab-333cb0abaaef",
           "type": "video",
           "src": "https://vimeo.com/showcase/11963963?video=641762941",
-          "coverUrl": "/uploads/15773aee-4357-434e-beab-333cb0abaaef-cover.jpg",
+          "coverUrl": "/content/uploads/15773aee-4357-434e-beab-333cb0abaaef-cover.jpg",
           "title": "Transformers 2",
           "description": "TV Spot",
           "tags": [
@@ -357,7 +357,7 @@
           "id": "a54f2c9b-add5-4257-a8d2-15c4a8341c4d",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=Eil5fAarzag",
-          "coverUrl": "/uploads/a54f2c9b-add5-4257-a8d2-15c4a8341c4d-cover.jpg",
+          "coverUrl": "/content/uploads/a54f2c9b-add5-4257-a8d2-15c4a8341c4d-cover.jpg",
           "title": "The Hero with the Impossible Dream",
           "description": "Video Essay",
           "tags": [
@@ -371,7 +371,7 @@
           "id": "d5fc31b1-e556-42fb-8818-ee4a1300ace9",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=aUi1kgJD7iI",
-          "coverUrl": "/uploads/d5fc31b1-e556-42fb-8818-ee4a1300ace9-cover.jpg",
+          "coverUrl": "/content/uploads/d5fc31b1-e556-42fb-8818-ee4a1300ace9-cover.jpg",
           "title": "The Hero who has No Fear",
           "description": "Video Essay",
           "tags": [
@@ -385,7 +385,7 @@
           "id": "b4fe9801-c4b8-48a5-be3f-d13fc970f803",
           "type": "video",
           "src": "https://www.youtube.com/watch?v=YH8vz_hmsW8",
-          "coverUrl": "/uploads/b4fe9801-c4b8-48a5-be3f-d13fc970f803-cover.jpg",
+          "coverUrl": "/content/uploads/b4fe9801-c4b8-48a5-be3f-d13fc970f803-cover.jpg",
           "title": "Golden Wind",
           "description": "Meditation Track",
           "tags": [
@@ -1647,8 +1647,8 @@
         ]
       },
       "defaultTab": "links",
-      "avatarUrl": "/uploads/avatar.jpg",
-      "bannerUrl": "/uploads/banner.jpg"
+      "avatarUrl": "/content/uploads/avatar.jpg",
+      "bannerUrl": "/content/uploads/banner.jpg"
     }
   },
   "layoutThemes": {
@@ -1976,8 +1976,8 @@
           ]
         },
         "defaultTab": "links",
-        "avatarUrl": "/uploads/avatar.jpg",
-        "bannerUrl": "/uploads/banner.jpg"
+        "avatarUrl": "/content/uploads/avatar.jpg",
+        "bannerUrl": "/content/uploads/banner.jpg"
       }
     },
     "minimal": {
@@ -2329,8 +2329,8 @@
           ]
         },
         "defaultTab": "links",
-        "avatarUrl": "/uploads/avatar.jpg",
-        "bannerUrl": "/uploads/banner.jpg"
+        "avatarUrl": "/content/uploads/avatar.jpg",
+        "bannerUrl": "/content/uploads/banner.jpg"
       }
     }
   },
