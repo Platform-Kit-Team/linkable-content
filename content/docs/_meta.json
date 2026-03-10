@@ -1,0 +1,9 @@
+{
+  "order": ["introduction", "content", "customization", "deployment"],
+  "labels": {
+    "introduction": "Introduction",
+    "content": "Content",
+    "customization": "Customization",
+    "deployment": "Deployment"
+  }
+}
