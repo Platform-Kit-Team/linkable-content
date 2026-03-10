@@ -32,4 +32,4 @@ That's what has motivated me to build [**PlatformKit**](https://github.com/platf
 We all deserve to own our digital footprint, and to have the final authority over what we can say. In an era where platforms like Instagram, Substack, etc, can decide what content is acceptable, building on your own domain is a strategic, and perhaps ethical imperative. PlatformKit is designed to give non-technical users the tools to create a beautiful, maintainable, censorship-resistant home for your ideas, your work, and your voice.
 
 
-This is just the beginning. I invite you to explore PlatformKit and imagine a future where the web is a bit more human.
+This is just the beginning. I invite you to explore PlatformKit and imagine a future where the web is a bit more human. You can read more about it [here](/docs).
