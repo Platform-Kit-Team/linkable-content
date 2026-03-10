@@ -1,7 +1,6 @@
 ---
 id: d4c87cd0-b97a-41ed-b610-7baf634c8b81
 title: Self Publishing
-slug: self-publishing
 date: 2026-03-09
 excerpt: as self-determination.
 coverImage: /content/uploads/cover-d4c87cd0-b97a-41ed-b610-7baf634c8b81.jpg
@@ -10,6 +9,7 @@ published: true
 tags: []
 publishDate: 2026-03-09
 expirationDate: 
+rss: true
 ---
 To quote Obi-Wan Kenobi, ***hello, there***.
 
