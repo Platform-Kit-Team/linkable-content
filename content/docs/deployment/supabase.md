@@ -1,4 +1,5 @@
 ---
+
 title: Supabase
 published: true
 ---
@@ -45,16 +46,16 @@ Generates TypeScript type definitions from your database schema.
 
 ## Edge functions
 
-| Function | Purpose |
-|----------|---------|
-| `newsletter-signup` | Handle public email subscriptions |
-| `newsletter-confirm` | Verify confirmation links |
-| `newsletter-admin` | CRUD for subscribers and broadcasts |
-| `newsletter-send` | Batch-send scheduled broadcasts |
-| `newsletter-cron` | Scheduled task runner |
-| `newsletter-unsubscribe` | Handle unsubscribe links |
-| `newsletter-view` | Render newsletter archive pages |
-| `newsletter-worker` | Async queue worker for email sends |
+| Function                 | Purpose                             |
+| ------------------------ | ----------------------------------- |
+| `newsletter-signup`      | Handle public email subscriptions   |
+| `newsletter-confirm`     | Verify confirmation links           |
+| `newsletter-admin`       | CRUD for subscribers and broadcasts |
+| `newsletter-send`        | Batch-send scheduled broadcasts     |
+| `newsletter-cron`        | Scheduled task runner               |
+| `newsletter-unsubscribe` | Handle unsubscribe links            |
+| `newsletter-view`        | Render newsletter archive pages     |
+| `newsletter-worker`      | Async queue worker for email sends  |
 
 ## Analytics
 
