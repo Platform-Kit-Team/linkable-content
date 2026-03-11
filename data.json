@@ -3,6 +3,7 @@
   "profile": {
     "displayName": "James Hunter Carter",
     "tagline": "Filmmaker + Founder",
+    "faviconUrl": "/favicon.ico",
     "ogImageUrl": "/pwa-logo.png"
   },
   "collections": {
@@ -104,6 +105,19 @@
       "icon": "",
       "searchEnabled": false,
       "items": [
+        {
+          "id": "98c3f54f-5cc2-4c65-9266-0d5f0974e24c",
+          "label": "DharmaWorks",
+          "html": "https://insight-link-scribe.lovable.app/read?book=tao-te-ching&random=1",
+          "icon": "Code",
+          "enabled": true,
+          "publishDate": "",
+          "expirationDate": "",
+          "fontSize": 14,
+          "fontFamily": "",
+          "fontWeight": "",
+          "letterSpacing": ""
+        },
         {
           "id": "e5b2de23-6ac9-4cbf-af20-1918ca3aa711",
           "label": "Astrocast",
@@ -1321,6 +1335,13 @@
       "searchEnabled": false,
       "items": []
     },
+    "products": {
+      "enabled": false,
+      "label": "Shop",
+      "icon": "ShoppingCart",
+      "searchEnabled": true,
+      "items": []
+    },
     "docs": {
       "enabled": false,
       "label": "Docs",
@@ -1536,7 +1557,7 @@
             "refId": "db5d0032-8b4d-47d4-9ca3-602bce1c64a4",
             "col": 1,
             "row": 20,
-            "colSpan": 2,
+            "colSpan": 1,
             "rowSpan": 3,
             "thumbnailUrl": "https://images.unsplash.com/photo-1623172959921-630212f71058?q=80&w=3732&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "headerText": "Meditation Music",
@@ -1546,9 +1567,9 @@
             "id": "4ee6b575-143c-49aa-b536-b7de9b066c20",
             "type": "embed",
             "refId": "f236b065-e908-476f-8d55-dccc72f28af7",
-            "col": 3,
+            "col": 4,
             "row": 20,
-            "colSpan": 2,
+            "colSpan": 1,
             "rowSpan": 3,
             "thumbnailUrl": "https://images.unsplash.com/photo-1646038572815-43fe759e459b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "headerText": " 👋  Say Hello!",
@@ -1646,6 +1667,18 @@
             "row": 14,
             "colSpan": 1,
             "rowSpan": 1,
+            "thumbnailUrl": "",
+            "headerText": "",
+            "buttonText": ""
+          },
+          {
+            "id": "b68c6328-aee3-486d-a71d-299f5092220e",
+            "type": "embed",
+            "refId": "98c3f54f-5cc2-4c65-9266-0d5f0974e24c",
+            "col": 2,
+            "row": 20,
+            "colSpan": 2,
+            "rowSpan": 3,
             "thumbnailUrl": "",
             "headerText": "",
             "buttonText": ""
@@ -1865,7 +1898,7 @@
               "refId": "db5d0032-8b4d-47d4-9ca3-602bce1c64a4",
               "col": 1,
               "row": 20,
-              "colSpan": 2,
+              "colSpan": 1,
               "rowSpan": 3,
               "thumbnailUrl": "https://images.unsplash.com/photo-1623172959921-630212f71058?q=80&w=3732&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "headerText": "Meditation Music",
@@ -1875,9 +1908,9 @@
               "id": "4ee6b575-143c-49aa-b536-b7de9b066c20",
               "type": "embed",
               "refId": "f236b065-e908-476f-8d55-dccc72f28af7",
-              "col": 3,
+              "col": 4,
               "row": 20,
-              "colSpan": 2,
+              "colSpan": 1,
               "rowSpan": 3,
               "thumbnailUrl": "https://images.unsplash.com/photo-1646038572815-43fe759e459b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "headerText": " 👋  Say Hello!",
@@ -1975,6 +2008,18 @@
               "row": 14,
               "colSpan": 1,
               "rowSpan": 1,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "b68c6328-aee3-486d-a71d-299f5092220e",
+              "type": "embed",
+              "refId": "98c3f54f-5cc2-4c65-9266-0d5f0974e24c",
+              "col": 2,
+              "row": 20,
+              "colSpan": 2,
+              "rowSpan": 3,
               "thumbnailUrl": "",
               "headerText": "",
               "buttonText": ""
@@ -2218,7 +2263,7 @@
               "refId": "db5d0032-8b4d-47d4-9ca3-602bce1c64a4",
               "col": 1,
               "row": 20,
-              "colSpan": 2,
+              "colSpan": 1,
               "rowSpan": 3,
               "thumbnailUrl": "https://images.unsplash.com/photo-1623172959921-630212f71058?q=80&w=3732&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "headerText": "Meditation Music",
@@ -2228,9 +2273,9 @@
               "id": "4ee6b575-143c-49aa-b536-b7de9b066c20",
               "type": "embed",
               "refId": "f236b065-e908-476f-8d55-dccc72f28af7",
-              "col": 3,
+              "col": 4,
               "row": 20,
-              "colSpan": 2,
+              "colSpan": 1,
               "rowSpan": 3,
               "thumbnailUrl": "https://images.unsplash.com/photo-1646038572815-43fe759e459b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
               "headerText": " 👋  Say Hello!",
@@ -2328,6 +2373,18 @@
               "row": 14,
               "colSpan": 1,
               "rowSpan": 1,
+              "thumbnailUrl": "",
+              "headerText": "",
+              "buttonText": ""
+            },
+            {
+              "id": "b68c6328-aee3-486d-a71d-299f5092220e",
+              "type": "embed",
+              "refId": "98c3f54f-5cc2-4c65-9266-0d5f0974e24c",
+              "col": 2,
+              "row": 20,
+              "colSpan": 2,
+              "rowSpan": 3,
               "thumbnailUrl": "",
               "headerText": "",
               "buttonText": ""
