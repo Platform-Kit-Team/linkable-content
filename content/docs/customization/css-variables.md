@@ -1,4 +1,5 @@
 ---
+
 title: CSS Variables
 published: true
 ---
@@ -9,42 +10,42 @@ PlatformKit themes are styled with CSS custom properties. You can tweak every co
 
 ## Colour variables
 
-| Variable | Description | Example (dark) |
-|----------|-------------|----------------|
-| `--bg` | Page background | `#0a0a0a` |
-| `--color-brand` | Primary brand colour | `#6366f1` |
-| `--color-brand-strong` | Stronger brand variant | `#818cf8` |
-| `--color-accent` | Accent / highlight | `#f59e0b` |
-| `--color-ink` | Main text colour | `#f5f5f5` |
-| `--color-ink-soft` | Muted / secondary text | `#a3a3a3` |
-| `--glass` | Glass surface (semi-transparent) | `rgba(255,255,255,0.05)` |
-| `--glass2` | Alternate glass surface | `rgba(255,255,255,0.08)` |
-| `--glassStrong` | More opaque glass | `rgba(255,255,255,0.12)` |
-| `--color-border` | Border colour | `rgba(255,255,255,0.1)` |
-| `--color-border2` | Secondary border | `rgba(255,255,255,0.06)` |
-| `--card-bg` | Card background | `rgba(24,24,27,0.8)` |
-| `--card-border` | Card border | `rgba(255,255,255,0.08)` |
-| `--card-text` | Card text colour | `#e5e5e5` |
+| Variable               | Description                      | Example (dark)           |
+| ---------------------- | -------------------------------- | ------------------------ |
+| `--bg`                 | Page background                  | `#0a0a0a`                |
+| `--color-brand`        | Primary brand colour             | `#6366f1`                |
+| `--color-brand-strong` | Stronger brand variant           | `#818cf8`                |
+| `--color-accent`       | Accent / highlight               | `#f59e0b`                |
+| `--color-ink`          | Main text colour                 | `#f5f5f5`                |
+| `--color-ink-soft`     | Muted / secondary text           | `#a3a3a3`                |
+| `--glass`              | Glass surface (semi-transparent) | `rgba(255,255,255,0.05)` |
+| `--glass2`             | Alternate glass surface          | `rgba(255,255,255,0.08)` |
+| `--glassStrong`        | More opaque glass                | `rgba(255,255,255,0.12)` |
+| `--color-border`       | Border colour                    | `rgba(255,255,255,0.1)`  |
+| `--color-border2`      | Secondary border                 | `rgba(255,255,255,0.06)` |
+| `--card-bg`            | Card background                  | `rgba(24,24,27,0.8)`     |
+| `--card-border`        | Card border                      | `rgba(255,255,255,0.08)` |
+| `--card-text`          | Card text colour                 | `#e5e5e5`                |
 
 ## Typography variables
 
-| Variable | Description | Example |
-|----------|-------------|---------|
-| `--font-family` | Base font stack | `"Inter", sans-serif` |
-| `--font-weight` | Default font weight | `400` |
-| `--letter-spacing` | Base letter spacing | `0em` |
+| Variable           | Description         | Example               |
+| ------------------ | ------------------- | --------------------- |
+| `--font-family`    | Base font stack     | `"Inter", sans-serif` |
+| `--font-weight`    | Default font weight | `400`                 |
+| `--letter-spacing` | Base letter spacing | `0em`                 |
 
 ## Bento layout variables
 
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `--bento-grid-width` | `960px` | Maximum grid width |
-| `--bento-gap` | `16px` | Space between grid cells |
-| `--bento-card-radius` | `20px` | Card corner radius |
-| `--bento-card-bg` | `var(--card-bg)` | Card background |
-| `--bento-card-border` | `var(--card-border)` | Card border |
-| `--bento-card-shadow` | `none` | Card box shadow |
-| `--bento-hover-scale` | `1.02` | Card hover zoom factor |
+| Variable              | Default              | Description              |
+| --------------------- | -------------------- | ------------------------ |
+| `--bento-grid-width`  | `960px`              | Maximum grid width       |
+| `--bento-gap`         | `16px`               | Space between grid cells |
+| `--bento-card-radius` | `20px`               | Card corner radius       |
+| `--bento-card-bg`     | `var(--card-bg)`     | Card background          |
+| `--bento-card-border` | `var(--card-border)` | Card border              |
+| `--bento-card-shadow` | `none`               | Card box shadow          |
+| `--bento-hover-scale` | `1.02`               | Card hover zoom factor   |
 
 ## Setting variables in the CMS
 
