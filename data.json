@@ -108,7 +108,7 @@
         {
           "id": "98c3f54f-5cc2-4c65-9266-0d5f0974e24c",
           "label": "DharmaWorks",
-          "html": "https://dharmaworks.com/read?book=art-of-war&random=1",
+          "html": "https://dharmaworks.com/read?book=art-of-war&random=1&embed=1",
           "icon": "Code",
           "enabled": true,
           "publishDate": "",
