@@ -108,7 +108,7 @@
         {
           "id": "98c3f54f-5cc2-4c65-9266-0d5f0974e24c",
           "label": "DharmaWorks",
-          "html": "https://insight-link-scribe.lovable.app/read?book=tao-te-ching&random=1",
+          "html": "https://dharmaworks.com/read?book=art-of-war&random=1",
           "icon": "Code",
           "enabled": true,
           "publishDate": "",
@@ -1336,7 +1336,7 @@
       "items": []
     },
     "products": {
-      "enabled": false,
+      "enabled": true,
       "label": "Shop",
       "icon": "ShoppingCart",
       "searchEnabled": true,
