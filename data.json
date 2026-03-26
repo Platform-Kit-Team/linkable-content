@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "profile": {
     "displayName": "James Hunter Carter",
-    "tagline": "Filmmaker + Founder",
+    "tagline": "Creative Director | SaaS Founder | Video Creator with over 1 Billion Views",
     "faviconUrl": "/favicon.ico",
     "ogImageUrl": "/pwa-logo.png"
   },
@@ -475,38 +475,14 @@
       "searchEnabled": false,
       "items": [
         {
-          "bio": "For the last two decades I've worked in Hollywood at the intersection of storytelling, marketing, psychology, and technology. Recently that has culminated in the creation of a boutique marketing-development agency called Secret Weapon and, Render AI and enterprise-grade AI Creative Suite for media professionals, teams, agencies, and studios.  ",
+          "bio": "Creative director and SaaS founder who builds narrative, positioning, and launch creative at the intersection of storytelling, marketing psychology, and technology. Founder of Render AI, an all-in-one AI creative suite for media teams, and co-founder of Secret Weapon. Known for award-winning entertainment marketing work, including a Golden CLIO and Super Bowl spots.",
           "education": [],
           "employment": [
-            {
-              "id": "78b8e52a-8b93-4e6f-9203-3b3ef6a5cbb8",
-              "company": "Aspect Ratio",
-              "role": "Trailer Editor",
-              "description": "",
-              "startYear": "2007",
-              "endYear": "2009"
-            },
-            {
-              "id": "350e1813-8ff9-4108-a26a-34cf715e02ee",
-              "company": "Transit",
-              "role": "Trailer Editor",
-              "description": "",
-              "startYear": "2009",
-              "endYear": "2015"
-            },
-            {
-              "id": "de7ff85e-f495-45b0-960c-53e3d5e0722e",
-              "company": "Self-Employed",
-              "role": "Trailer Editor",
-              "description": "",
-              "startYear": "2015",
-              "endYear": "2024"
-            },
             {
               "id": "da5c703b-5b62-40db-be44-56fa4ff3b462",
               "company": "Render AI",
               "role": "Founder",
-              "description": "",
+              "description": "Shipped Render AI v2, an all-in-one AI creative suite for media professionals (text, images, speech, audio, and video) in a single workspace built for teams and studios. Built, validated, positioned, and shipped Render AI (https://renderai.com) based on 100+ hours of customer conversations across IT, post-production, creative executives, and owners at production companies, TV networks, agencies, and studios. Created B2B SaaS positioning and sales narrative to support enterprise conversations. Render AI has been used on 40+ TV and film projects, including films produced by Warner Bros., Legendary Pictures, Netflix, 20th Century Fox, Disney, Sony Pictures, and Hulu.",
               "startYear": "2024",
               "endYear": "Present"
             },
@@ -514,33 +490,74 @@
               "id": "0a167cfd-a0de-4deb-8f4f-f80c2abc6dc9",
               "company": "Secret Weapon",
               "role": "Co-Founder",
-              "description": "",
+              "description": "Co-founded Secret Weapon, a boutique marketing-development agency focused on helping blockbuster projects get the greenlight and optimize global box office performance. Developed the story and created a full-length trailer and other pre-visualization assets for the next film from the team behind the Despicable Me franchise ($5B in ticket sales worldwide). Led positioning and launch creative to align stakeholders and move projects from development toward greenlight.",
               "startYear": "2025",
               "endYear": "Present"
+            },
+            {
+              "id": "de7ff85e-f495-45b0-960c-53e3d5e0722e",
+              "company": "Self-Employed",
+              "role": "Creative Director",
+              "description": "Led and delivered advertising campaigns for studios, agencies, and entertainment brands. Created award-winning work including a Golden CLIO-winning LEGO Batman teaser and multiple Super Bowl TV spots. Worked directly with AAA filmmakers including Greta Gerwig (Barbie, $1.4B box office) and Rawson Marshall Thurber (Red Notice) to create pre-visualization assets supporting greenlight decisions. Worked on-set in Auckland, New Zealand with director Jared Hess and Legendary Pictures SVP of Production Cale Boyter to create marketing assets for A Minecraft Movie (global box office $961M).",
+              "startYear": "2015",
+              "endYear": "2024"
+            },
+            {
+              "id": "350e1813-8ff9-4108-a26a-34cf715e02ee",
+              "company": "Transit",
+              "role": "Video Editor",
+              "description": "Edited A/V marketing assets for global advertising campaigns. Worked directly with director J.J. Abrams (Star Wars, Star Trek, Mission: Impossible, Lost) to create trailers and other marketing assets for Star Trek Into Darkness ($467.4M worldwide box office).",
+              "startYear": "2009",
+              "endYear": "2015"
+            },
+            {
+              "id": "78b8e52a-8b93-4e6f-9203-3b3ef6a5cbb8",
+              "company": "Aspect Ratio",
+              "role": "Video Editor",
+              "description": "Edited A/V marketing assets for global advertising campaigns.",
+              "startYear": "2007",
+              "endYear": "2009"
             }
           ],
-          "skills": [],
+          "skills": [
+            "Brand strategy & positioning",
+            "Product storytelling",
+            "Copywriting",
+            "Creative direction",
+            "Go-to-market creative",
+            "Aesthetic & tone systems",
+            "Narrative development",
+            "Campaign development",
+            "Creative production leadership",
+            "Adobe Creative Suite",
+            "Avid Media Composer",
+            "Pro Tools",
+            "AI prototyping & agentic workflows",
+            "Docker",
+            "Git",
+            "ComfyUI"
+          ],
           "achievements": [
             {
               "id": "ca1df95b-e986-40fb-8739-9c73cbb7cf9e",
               "title": "Golden CLIO Award",
               "issuer": "CLIO Awards",
               "year": "2017",
-              "description": "for my LEGO Batman Teaser"
+              "description": "Won for LEGO Batman Teaser."
             },
             {
               "id": "339de689-d8e5-49fe-ba49-c85539b8878a",
               "title": "Super Bowl TV Spot",
               "issuer": "NFL / Relativity",
               "year": "2012",
-              "description": "My TV spot for Relativity Media's Act of Valor film aired during Super Bowl XLVI"
+              "description": "TV spot for Relativity Media's Act of Valor aired during Super Bowl XLVI."
             },
             {
               "id": "b54ce01a-268d-4004-b4d2-9e23385a73bd",
               "title": "Super Bowl TV Spot",
               "issuer": "NFL / Universal",
               "year": "2010",
-              "description": "My TV spot for Universal's Wolfman film aired during Super Bowl XLIV"
+              "description": "Super Bowl TV spot for Universal."
             }
           ]
         }
